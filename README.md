@@ -36,3 +36,5 @@ https://github.com/public-apis/public-apis
 ## Ideas
 https://www.frontendmentor.io
 https://codelabs.developers.google.com
+## Image Encoder
+https://www.base64-image.de/
