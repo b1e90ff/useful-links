@@ -38,3 +38,5 @@ https://www.frontendmentor.io
 https://codelabs.developers.google.com
 ## Image Encoder
 https://www.base64-image.de/
+## FontAwesome
+https://fontawesome.com/icons
